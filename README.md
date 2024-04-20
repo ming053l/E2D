@@ -19,8 +19,6 @@ Advanced Computer Vision LAB, National Cheng Kung University
 
 The reduction in redundant data achieved by the SSFL++ module is evaluated across three dimensions: spatial, slice, and overall. This approach quantifies the efficiency of the SSFL++ module in reducing unnecessary information in CT scans, enabling more focused analysis and processing. By minimizing data redundancy, the module enhances computational efficiency and potentially improves the accuracy of subsequent analyses or models applied to the CT data.
 
-## Table: Data Reduction Metrics
-
 |              | Spatial Area (K) |          |          | Slice Length |          |          | Spatial × Slice (M) |        |         |
 |--------------|------------------|----------|----------|--------------|----------|----------|---------------------|--------|---------|
 |              | Before           | After    | Δ (%)    | Before       | After    | Δ (%)    | Before              | After  | Δ (%)   |
