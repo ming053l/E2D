@@ -71,13 +71,21 @@ CUDA_VISIBLE_DEVICES=0,1 python train.py
         archivePrefix={arXiv},
         primaryClass={eess.IV}
     }
+    @misc{hsu2024simple,
+      title={Simple 2D Convolutional Neural Network-based Approach for COVID-19 Detection}, 
+      author={Chih-Chung Hsu and Chia-Ming Lee and Yang Fan Chiang and Yi-Shiuan Chou and Chih-Yu Jiang and Shen-Chieh Tai and Chi-Han Tsai},
+      year={2024},
+      eprint={2403.11230},
+      archivePrefix={arXiv},
+      primaryClass={eess.IV}
+    }
     @INPROCEEDINGS{10192945,
         author={Chih-Chung Hsu and Chia-Ming Lee and Yang Fan Chiang and Yi-Shiuan Chou and Chih-Yu Jiang and Shen-Chieh Tai and Chi-Han Tsai},
         booktitle={2023 IEEE International Conference on Acoustics, Speech, and Signal Processing Workshops (ICASSPW)}, 
         title={Bag of Tricks of Hybrid Network for Covid-19 Detection of CT Scans}, 
         year={2023},
         pages={1-4}
-        }
+    }
 
 
 ## Contact
