@@ -11,10 +11,8 @@ Advanced Computer Vision LAB, National Cheng Kung University
 
 - SSFL++: Remove redundancy on spatial/slice dimension with kernel-density-aware slice sampling for CT scan. (removing 70% reduncancy and with global sequantial modeling)
 
-<img src=".\figures\spatialslice.png" width="500"/>
-
 - E2D: Simple 2D-CNN for COVID-19 Detection. (few-shot aware, robust, and efficient)
-
+<img src=".\figures\spatialslice.png" width="500"/>
 <img src=".\figures\kde.png" width="600"/>
 
 - Generalizability: A Unified redundancy removal framework for CT-scan-like data.
