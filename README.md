@@ -1,7 +1,7 @@
 # A Closer Look at Spatial-Slice Features Learning for COVID-19 Detection
 
 
-### SSFL++, E2D [[Paper Link]](https://arxiv.org/abs/2404.01643) [[Project Page]](https://allproj001.github.io/cov19d.github.io/)
+### SSFL++, E2D [[Paper Link]](https://arxiv.org/abs/2404.01643) [[Project Page]](https://allproj001.github.io/cov19d.github.io/) [[Technical Report]](https://arxiv.org/abs/2403.11230)
 
 [Chih-Chung Hsu](https://cchsu.info/), [Chia-Ming Lee](https://ming053l.github.io/), [Yi-Shiuan Chou](https://scholar.google.com/citations?&user=iGX8FBcAAAAJ)
 
