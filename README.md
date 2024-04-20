@@ -19,7 +19,7 @@ Advanced Computer Vision LAB, National Cheng Kung University
 
 - Generalizability: A Unified redundancy removal framework for CT-scan-like data.
 
-<img src=".\figures\generalize.png" width="400"/>
+<img src=".\figures\generalize.png" width="600"/>
 
 # Data Reduction Overview
 
