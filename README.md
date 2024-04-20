@@ -1,7 +1,10 @@
 # A Closer Look at Spatial-Slice Features Learning for COVID-19 Detection
 
 
-### E2D [[Paper Link]](https://arxiv.org/abs/2404.01643) [[Project Page]](https://allproj001.github.io/cov19d.github.io/)
+### SSFL++, E2D [[Paper Link]](https://arxiv.org/abs/2404.01643) [[Project Page]](https://allproj001.github.io/cov19d.github.io/)
+
+SSFL++: Remove redundancy on spatial/slice dimension with kernel-density aware slice sampling for CT scan
+E2D: Simple 2D-CNN for COVID-19 Detection. (few-shot aware, robust, and efficient)
 
 [Chih-Chung Hsu](https://cchsu.info/), [Chia-Ming Lee](https://ming053l.github.io/), [Yi-Shiuan Chou](https://scholar.google.com/citations?&user=iGX8FBcAAAAJ)
 
