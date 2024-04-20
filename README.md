@@ -15,6 +15,30 @@ Advanced Computer Vision LAB, National Cheng Kung University
 
 <img src=".\figures\generalize.png" width="400"/>
 
+# Data Reduction Overview
+
+The reduction in redundant data achieved by the SSFL++ module is evaluated across three dimensions: spatial, slice, and overall. This approach quantifies the efficiency of the SSFL++ module in reducing unnecessary information in CT scans, enabling more focused analysis and processing. By minimizing data redundancy, the module enhances computational efficiency and potentially improves the accuracy of subsequent analyses or models applied to the CT data.
+
+## Table: Data Reduction Metrics
+
+|              | Spatial Area (K) |          |          | Slice Length |          |          | Spatial × Slice (M) |        |         |
+|--------------|------------------|----------|----------|--------------|----------|----------|---------------------|--------|---------|
+|              | Before           | After    | Δ (%)    | Before       | After    | Δ (%)    | Before              | After  | Δ (%)   |
+|--------------|------------------|----------|----------|--------------|----------|----------|---------------------|--------|---------|
+| Training     | 267.25           | 155.53   | 0.4184   | 285.32       | 142.91   | 0.4983   | 76.25               | 22.22  | 0.7085  |
+| Positive     | 266.42           | 157.69   | 0.4088   | 295.90       | 148.18   | 0.4985   | 78.83               | 23.36  | 0.7036  |
+| Negative     | 268.21           | 153.03   | 0.4296   | 273.97       | 137.26   | 0.4981   | 73.48               | 21.00  | 0.7141  |
+| Validation   | 265.62           | 155.23   | 0.4172   | 281.95       | 141.23   | 0.4984   | 74.89               | 21.92  | 0.7072  |
+| Positive     | 268.94           | 160.48   | 0.4061   | 280.53       | 140.55   | 0.4984   | 75.45               | 22.55  | 0.7010  |
+| Negative     | 262.12           | 149.69   | 0.4288   | 283.49       | 141.97   | 0.4984   | 74.30               | 21.25  | 0.7139  |
+| (T+V) Positive | 267.25         | 155.53   | 0.4184   | 292.96       | 146.72   | 0.4985   | 78.29               | 22.81  | 0.7085  |
+| (T+V) Negative | 267.01         | 152.37   | 0.4294   | 275.78       | 138.16   | 0.4982   | 73.64               | 21.05  | 0.7141  |
+| Total         | 266.94          | 155.47   | 0.4182   | 284.68       | 142.59   | 0.4983   | 75.99               | 22.16  | 0.7082  |
+| Testing       | 279.55          | 153.41   | 0.4520   | 309.39       | 154.67   | 0.5003   | 86.48               | 23.72  | 0.7256  |
+
+*Table: The reduction metrics by the SSFL++ module across training/valid/testing set.*
+
+
 ## Environment
 ### Installation
 ```
