@@ -3,7 +3,7 @@
 
 ### SSFL++, E2D [[Paper Link]](https://arxiv.org/abs/2404.01643) [[Project Page]](https://allproj001.github.io/cov19d.github.io/) [[Technical Report]](https://arxiv.org/abs/2403.11230)
 
-[Chih-Chung Hsu](https://cchsu.info/), [Chia-Ming Lee](https://ming053l.github.io/), [Yi-Shiuan Chou](https://scholar.google.com/citations?&user=iGX8FBcAAAAJ)
+[Chih-Chung Hsu](https://cchsu.info/), [Chia-Ming Lee](https://ming053l.github.io/), [Yang Fan Chiang], [Yi-Shiuan Chou](https://scholar.google.com/citations?&user=iGX8FBcAAAAJ), [Chih-Yu Jiang], [Sheng-Chieh Tai], [Chi-Han Tsai]
 
 Advanced Computer Vision LAB, National Cheng Kung University
 
