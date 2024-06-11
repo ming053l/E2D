@@ -87,6 +87,14 @@ CUDA_VISIBLE_DEVICES=0,1 python train.py
         year={2023},
         pages={1-4}
     }
+    @InProceedings{Hsu_2024_CVPR,
+        author    = {Hsu, Chih-Chung and Lee, Chia-Ming and Chiang, Yang Fan and Chou, Yi-Shiuan and Jiang, Chih-Yu and Tai, Shen-Chieh and Tsai, Chi-Han},
+        title     = {A Closer Look at Spatial-Slice Features Learning for COVID-19 Detection},
+        booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+        month     = {June},
+        year      = {2024},
+        pages     = {4924-4934}
+    }
 
 
 ## Contact
